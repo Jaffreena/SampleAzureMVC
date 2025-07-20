@@ -1,0 +1,7 @@
+F:\july2025\SampleMVCAzure\pub\SampleMVCAzure.exe
+F:\july2025\SampleMVCAzure\pub\appsettings.Development.json
+F:\july2025\SampleMVCAzure\pub\appsettings.json
+F:\july2025\SampleMVCAzure\pub\SampleMVCAzure.dll
+F:\july2025\SampleMVCAzure\pub\SampleMVCAzure.deps.json
+F:\july2025\SampleMVCAzure\pub\SampleMVCAzure.runtimeconfig.json
+F:\july2025\SampleMVCAzure\pub\SampleMVCAzure.pdb
